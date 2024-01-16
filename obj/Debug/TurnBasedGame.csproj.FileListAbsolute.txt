@@ -1,0 +1,2 @@
+D:\Academia\Projects\CSharpProjects\TurnBasedGame\obj\Debug\TurnBasedGame.csproj.AssemblyReference.cache
+D:\Academia\Projects\CSharpProjects\TurnBasedGame\obj\Debug\TurnBasedGame.csproj.CoreCompileInputs.cache
