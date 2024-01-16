@@ -23,3 +23,5 @@ This project is a simple console-based turn-based battle game implemented in C#.
 2. Open the project in an IDE that supports C# (e.g., Visual Studio or VS Code).
 3. Build and run the solution.
 4. Enjoy!
+![image](https://github.com/GilGuereque/TurnBasedGame/assets/38387405/0d11d043-31b1-42db-93e4-4001a867983c)
+
