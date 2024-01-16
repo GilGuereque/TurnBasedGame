@@ -50,7 +50,3 @@ namespace TurnBasedGame
         }
     }
 }
-
-
-
-
