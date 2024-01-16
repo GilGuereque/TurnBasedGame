@@ -20,3 +20,6 @@ This project is a simple console-based turn-based battle game implemented in C#.
 
 ## Installation
 1. Clone the repository or download the source code.
+2. Open the project in an IDE that supports C# (e.g., Visual Studio or VS Code).
+3. Build and run the solution.
+4. Enjoy!
